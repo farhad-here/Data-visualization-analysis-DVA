@@ -12,6 +12,8 @@ This project provides a complete workflow for cleaning, imputing, evaluating, so
 - 📈 **Visualization** – Generating informative charts using Matplotlib/Seaborn to identify trends.
 - 🧑‍💻 **Streamlit UI** *(optional)* – Interactive interface to explore data visually.
 
+# <a href="https://dvadataanalysis.streamlit.app/">go to DVA WebApp</a>
+
 # 🧰 Install dependencies:
 ## download dataset
 
