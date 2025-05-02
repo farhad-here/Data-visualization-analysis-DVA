@@ -2,7 +2,6 @@ altair==5.4.1
 attrs==24.2.0
 blinker==1.8.2
 bokeh==3.7.2
-scikit-learn==1.6.1
 cachetools==5.5.0
 certifi==2024.8.30
 charset-normalizer==3.3.2
@@ -41,7 +40,7 @@ referencing==0.35.1
 requests==2.32.3
 rich==13.8.1
 rpds-py==0.20.0
-scikit-learn==1.5.2
+scikit-learn==1.6.1
 scipy==1.14.1
 six==1.16.0
 smmap==5.0.1
