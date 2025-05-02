@@ -1,4 +1,0 @@
-# ignore all .csv files
-*.csv
-# ignore venv
-venv
