@@ -27,7 +27,7 @@ pip install --force-reinstall --no-deps bokeh==2.4.3
 ```
 do not forget:
 ```bash
-pip install requirements.txt 
+pip install -r requirements.txt 
 
 ```
 
